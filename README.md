@@ -11,7 +11,7 @@
 1. Clone the repo
 
    ```
-   git clone git@github.com:AbegaM/Telegram-bot.git
+   git clone https://github.com/Samijms/Ai-doc.git
    ```
 
 2. Install NPM packages (run the command below)
